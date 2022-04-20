@@ -1,0 +1,20 @@
+Control Statements
+
+control statements are used to control the flow of execution of a program
+
+
+Types--there are three types 
+
+
+                                        control statements
+                                                 |
+                                                 |
+             -----------------------------------------------------------------------
+             |                                   |                                 |
+         1>Selection                       2>Iterative OR               3>Jump Statements
+      control statements                 Looping statements                        |
+             |                                   |                                 |-Break
+             | -If                               |-While loop                      |
+             |                                   |-Do-While loop                   |-Continue
+             | -Switch case                      |-For loop                        |
+                                                                                   |-Goto
