@@ -1,4 +1,4 @@
-// This is a program to check whether a no is prime or not using while loop
+// This is a program to check whether a no is prime or not, using while loop
 #include <iostream>
 using namespace std;
 

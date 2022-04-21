@@ -1,4 +1,4 @@
-// This is a program to check whether a no is prime or not using for loop
+// This is a program to check whether a no is prime or not, using for loop
 #include <iostream>
 using namespace std;
 
