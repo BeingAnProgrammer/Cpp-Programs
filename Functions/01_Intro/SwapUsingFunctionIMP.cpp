@@ -1,4 +1,4 @@
-// This is a program to swap two numbers using function
+// This is a program to swap two numbers using call by value in function
 // THis is important
 
 //------------------X-X-X--WRONG MEATHOD--X-X-X-----------------------
