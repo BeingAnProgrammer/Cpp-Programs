@@ -31,6 +31,8 @@
 #include <iostream>
 using namespace std;
 
+// Call by reference using pointers
+
 void swap(int *a, int *b)   //using pointers
 {
     int temp;
