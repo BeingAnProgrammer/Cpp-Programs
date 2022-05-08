@@ -1,0 +1,17 @@
+ctrl +B → Toggle the sidebar
+
+ctrl + p → Navigate through files 
+
+ctrl + shift + L → multi cursor on all matching selection
+
+ctrl +L → to select the entire line 
+
+ alt + up/down → move the selected piece of code
+
+ ctrl+ / → split editor view 
+
+ alt +shift + f → format the document
+
+ shift + alt + up/down → duplicate selection up or down 
+
+ ctrl + shifr + [      →   Fold code block
